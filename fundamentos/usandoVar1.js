@@ -16,5 +16,5 @@ function teste(){
 
 teste()
 
-console.log(local)
+//console.log(local) // nao pode ser acessada dentro da função
 
